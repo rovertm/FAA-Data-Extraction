@@ -42,7 +42,7 @@ Files include a single .ipynb and three supporting .csv files.
 
 ## Results<a name="results"></a>
 
-Please find the results summarized in the article [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+Please find the results summarized in the article [here](https://medium.com/@rovertkm/aircraft-repair-stations-f991a804555f).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
