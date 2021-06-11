@@ -40,10 +40,6 @@ Files include a single .ipynb and three supporting .csv files.
 
 .csv files: Source data (initial_export_faa.csv); webscrape results (scraped_stations.csv); and final consolidated data set after collecting and scraping (all_data_faa.csv) - please use this data set for your own projects!
 
-## Results<a name="results"></a>
-
-Please find the results summarized in the article [here](https://medium.com/@rovertkm/aircraft-repair-stations-f991a804555f).
-
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 The source data for this project originated from the FAA's website: https://av-info.faa.gov/repairstation.asp
