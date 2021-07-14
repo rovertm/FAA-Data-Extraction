@@ -6,9 +6,8 @@
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
-6. [View the notebook](#notebook)
+4. [Licensing, Authors, and Acknowledgements](#licensing)
+5. [View the notebook](#notebook)
 
 ## Installation <a name="installation"></a>
 
