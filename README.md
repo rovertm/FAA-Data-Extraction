@@ -28,8 +28,6 @@ Here are the questions I considered through the analysis:
 3. What is the composition of small businesses (< 20 employees) to large businesses across the repair station landscape?
 4. What percentage of the repair station workforce is skilled (certificated), and how does composition vary from small to large businesses?
 
-The intent of the analysis was observational understanding.
-
 ## File Descriptions <a name="files"></a>
 
 Files include a single .ipynb and three supporting .csv files.
